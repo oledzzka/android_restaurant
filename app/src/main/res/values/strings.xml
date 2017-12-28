@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">restaurant</string>
+    <string name="choose_city">Choose city</string>
+    <string name="city">City</string>
+    <string name="find_location">Find Location</string>
+    <string name="categories">Categories</string>
+    <string name="settings">Settings</string>
+    <string name="inverse_theme">Inverse theme</string>
+    <string name="search_hint">Write city name</string>
+    <string name="city_or_category">Choose city and category!</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="menu">menu</string>
+    <string name="photos">Photos</string>
+    <string name="address">Address</string>
+    <string name="locality">Locality</string>
+    <string name="Phone">Phone</string>
+    <string name="Price">Price</string>
+    <string name="priceRating">Price rating:</string>
+    <string name="average_cost_for_two">Average cost for two:</string>
+    <string name="url_restaurant">Website restaurant</string>
+    <string name="time_for_food">Eating time</string>
+    <string name="you_asked_notify">You asked to notify</string>
+    <string name="you_want_eating_in">You want to eat in</string>
+    <string name="you_long_no_visit">You haven`t been long here</string>
+    <string name="go_here">Do u want to go here?</string>
+    <string name="notify_me">Notify me later</string>
 </resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group
+        android:id="@+id/category_group"
+        android:checkableBehavior="single">
+    </group>
+    <!--<item android:title="@string/settings">-->
+        <!--<group-->
+            <!--android:id="@+id/settings_group">-->
+            <!--<item app:actionLayout ="@layout/switch_layout"-->
+                <!--android:title="@string/inverse_theme">-->
+            <!--</item>-->
+        <!--</group>-->
+    <!--</item>-->
+</menu>
